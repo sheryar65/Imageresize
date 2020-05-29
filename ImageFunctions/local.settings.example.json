@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "<STORAGE_ACCOUNT_CONNECTION_STRING>",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=powerappim;AccountKey=y+jOhEz+QstZH/BRNcReKU/6oHVfwlHPwbRThLooSd+tM8umIP0XJDkQwYK3+L4x8iiozgAQNkY0o6/00EeRbw==;EndpointSuffix=core.windows.net",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
     "THUMBNAIL_CONTAINER_NAME": "thumbnails",
     "THUMBNAIL_WIDTH": "100",
